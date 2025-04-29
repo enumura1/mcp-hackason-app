@@ -4,7 +4,7 @@
 
 ローカルの画像ファイルをBase64エンコードし、APIエンドポイントに送信するClaude Desktop用のMCP（Model Context Protocol）ツール。
 
-[MCPハッカソン](https://llmcraft.connpass.com/event/352693/)のイベントにて作成したもの。
+https://llmcraft.connpass.com/event/352693/のイベントにて作成したもの。
 
 ## 機能
 
